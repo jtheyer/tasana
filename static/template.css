@@ -1,0 +1,44 @@
+
+body {
+  padding-top: 50px;
+  background-color: white;
+}
+h1, h2, h3, p{
+  font-family: Georgia, Times, "Times New Roman";
+}
+/*.jumbotron{*/
+  /*position: relative;*/
+  /*min-height: 355px;*/
+  /*border: 1px solid #e5e5e5;*/
+  /*background: url("/static/tasanaSun.png");*/
+  /*width: 100%;*/
+  /*height: 100%;*/
+  /*background-size: 85%;*/
+  /*overflow: hidden;*/
+/*}*/
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: inset;
+}
+.welcome {
+    alignment: center;
+}
+
+/*.navbar .navbar-inverse .navbar-brand {*/
+  /*color: red !important;*/
+/*}*/
+
+.base {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.secondary {
+    background-color: aliceblue;
+    padding: 25px 15px;
+}
+.call {
+    border: outset;
+}
